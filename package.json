@@ -1,0 +1,26 @@
+{
+  "name": "traceur-loader",
+  "version": "0.0.0",
+  "description": "traceur preloader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ripter/traceur-loader.git"
+  },
+  "keywords": [
+    "traceur",
+    "webpack"
+  ],
+  "author": "Chris Richards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripter/traceur-loader/issues"
+  },
+  "homepage": "https://github.com/ripter/traceur-loader",
+  "devDependencies": {
+    "traceur": "0.0.33"
+  }
+}
